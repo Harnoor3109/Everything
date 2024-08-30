@@ -1,0 +1,4 @@
+﻿  Lab2HarnoorSingh.cpp
+E:\CST127\LAB\Lab 2\Lab2HarnoorSingh\Lab2HarnoorSingh.cpp(35,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\CST127\LAB\Lab 2\Lab2HarnoorSingh\Lab2HarnoorSingh.cpp(36,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Lab2HarnoorSingh.vcxproj -> E:\CST127\LAB\Lab 2\Lab2HarnoorSingh\Debug\Lab2HarnoorSingh.exe
